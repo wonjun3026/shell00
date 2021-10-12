@@ -1,0 +1,5 @@
+Credentials cache: API:7F3D0E77-9880-49A6-A7FF-D0C274DBC841
+        Principal: wjo@42SEOUL.KR
+
+  Issued                Expires               Principal
+Oct 10 16:05:22 2021  Oct 11 02:05:22 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
